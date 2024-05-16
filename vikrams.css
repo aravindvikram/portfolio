@@ -1,0 +1,31 @@
+.name{
+   color: rgb(33, 33, 158);
+  text-align: center;
+  margin: 10px;
+ 
+  font-size: 30px;
+  padding: 20px;
+  background-color: rgb(180, 180, 238);
+  
+  
+  }
+  .name:hover{
+    color: whitesmoke;
+    cursor: pointer;
+  }
+  .name:active{
+    background-color: brown;
+    
+  }
+
+  .summary{
+    font-size: large;
+  }
+  .education{
+    margin:0 ;
+  }
+
+  footer{
+    text-align: center;
+  }
+  
